@@ -1,5 +1,5 @@
 1:HL["/demo-wave-dubai/_next/static/css/d8f00b3445eb0ec1.css","style"]
-0:["By_mqIHw0ZmLmtnN14XZH",[[["",{"children":["jobs",{"children":[["id","12","d"],{"children":["__PAGE__?{\"id\":\"12\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/demo-wave-dubai/_next/static/css/d8f00b3445eb0ec1.css","precedence":"next"}]],"$L3"]]]]
+0:["CLoRqc_noQ_8pXoi5-6MJ",[[["",{"children":["jobs",{"children":[["id","12","d"],{"children":["__PAGE__?{\"id\":\"12\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/demo-wave-dubai/_next/static/css/d8f00b3445eb0ec1.css","precedence":"next"}]],"$L3"]]]]
 4:I{"id":81443,"chunks":["272:static/chunks/webpack-6bcaf96177af46e3.js","971:static/chunks/fd9d1056-cefb151aeb9eeb06.js","864:static/chunks/864-79488f536abeafb9.js"],"name":"","async":false}
 5:I{"id":18639,"chunks":["272:static/chunks/webpack-6bcaf96177af46e3.js","971:static/chunks/fd9d1056-cefb151aeb9eeb06.js","864:static/chunks/864-79488f536abeafb9.js"],"name":"","async":false}
 7:I{"id":69539,"chunks":["333:static/chunks/333-49656d1ee7201e4a.js","147:static/chunks/147-8c24e4f1c151a653.js","712:static/chunks/app/jobs/[id]/page-710f1afbdcc2c7f2.js"],"name":"Header","async":false}
